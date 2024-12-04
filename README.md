@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahul-jerthi
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning ethnical hacking and bug bug hunting 
-- 💞️ I’m looking to collaborate on cyber security 
+- 🌱 I’m currently learning software development technologies
+- 💞️ I’m looking to collaborate on new ideas 
 - 📫 How to reach me ... Insta I'd is  rahul_jerthi
 
 <!---
