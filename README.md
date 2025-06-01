@@ -21,4 +21,5 @@ Hey there! I'm Rahul Jangir, <br>a tech enthusiast, problem solver, <br>and crea
 ---
 [![](https://visitcount.itsvg.in/api?id=rahul-jerthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/rahul-jerthi/rahul-jerthi/blob/output/github-snake-dark.svg)
+
