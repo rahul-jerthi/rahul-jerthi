@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there! I'm Rahul Jangir, <br>a tech enthusiast, problem solver, <br>and creative developer who loves turning coffee into code ☕💻
 
-
+<div align="center">
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-jerthi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahujerthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahujerthi@gmail.com) 
 
@@ -17,6 +17,7 @@ Hey there! I'm Rahul Jangir, <br>a tech enthusiast, problem solver, <br>and crea
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 <p align="center">
